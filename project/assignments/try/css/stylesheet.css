@@ -1,0 +1,67 @@
+body
+{
+background-color:black;
+}
+#container
+{
+height:auto;
+width:85em;
+margin:auto;
+
+}
+#header
+{
+height:6em;
+width:60em;
+background-color:red;
+margin-left:12em;
+
+}
+#content_area
+{
+height:30em;
+width:60em;
+background-color:black;
+margin-left:12em;
+}
+#watch
+{
+font-size:4em;
+color:black;
+text-align:center;
+}
+#form
+{
+background-color:white;
+margin-left:17em;
+margin-top:13em;
+width:20em;
+}
+#form a:hover
+{
+color:blue;
+}
+
+input[type="text"] {
+    width:50px;
+    text-align:center;}    
+
+div {
+    font-family:Arial,Verdana;
+    font-size:12px;;
+    width:360px;
+ 
+    padding:16px;
+	
+    text-align:center;
+    
+	}
+
+div span:last-child {
+color:green;}
+
+h1 {
+    font-size:14px;
+    margin:0 0 8px 0;
+}
+
